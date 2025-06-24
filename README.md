@@ -24,3 +24,4 @@ Desde la terminal (dentro de esta carpeta):
 ```bash
 streamlit run app.py
 # streamlit-dashboard
+# link_render : https://streamlit-dashboard-we5r.onrender.com/
